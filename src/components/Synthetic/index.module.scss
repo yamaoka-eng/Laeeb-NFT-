@@ -1,0 +1,6 @@
+.synthetic {
+  @apply mt-20 flex flex-col items-center justify-center max-w-[1200px] mx-auto pt-10 rounded-lg overflow-hidden;
+  background: url(/src/assets/footballBg.png) no-repeat;
+  background-position: 0 110%;
+  background-size: cover;
+}

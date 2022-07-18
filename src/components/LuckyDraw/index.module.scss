@@ -1,0 +1,5 @@
+.luckDraw {
+  @apply mt-20 first-letter:w-full max-w-[1200px] mx-auto pt-[6rem] flex flex-col items-center justify-center rounded-md;
+  background: url(/src/assets/blackBg.png) no-repeat;
+  background-size: 100% 50%;
+}

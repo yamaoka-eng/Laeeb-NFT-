@@ -1,0 +1,8 @@
+.welcome {
+  @apply justify-center text-[#183b56] grid max-w-[1200px] mx-auto gap-[3rem] pt-32 md:pt-40;
+  grid-template-columns: repeat(2, 1fr);
+  @media (max-width: 900px) {
+    @apply gap-[2rem];
+    grid-template-columns: repeat(1, 1fr);
+  }
+}

@@ -1,0 +1,8 @@
+.invite {
+  @apply mt-20 max-w-[1200px] mx-auto flex flex-col items-center justify-center text-[#183b56];
+  .inviteCard {
+    @apply w-full text-[#ffaa00] flex flex-col justify-center items-start py-10 px-8 md:py-16 md:px-20;
+    background: url(/src/assets/inviteBg.png) no-repeat;
+    background-size: 100% 100%;
+  }
+}
