@@ -76,11 +76,11 @@ export const AppProvider = ({ children }) => {
   const SyntheticInfo = {
     English: {
       title: 'NFT Synthetic',
-      section: 'Synthetic football stars can participate in the platform USDT dividends'
+      section: 'Synthetic soccer stars divide 200,000 USDT'
     },
     Chinese: {
       title: 'NFT合成',
-      section: '合成足球明星可參與平臺USDT分紅'
+      section: '合成足球明星瓜分200,000 USDT'
     }
   }
 
