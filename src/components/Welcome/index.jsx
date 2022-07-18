@@ -34,7 +34,7 @@ const Index = () => {
       <div className='flex flex-col w-full md:w-auto md:min-h-full justify-between items-start'>
         <div>
           <h1 className='text-4xl md:text-5xl font-semibold'>Welcome to Laeeb</h1>
-          <p className='max-w-[600px] md:mt-[5rem] font-semibold text-base mb-10 pb-8 border-b border-gray-700 border-opacity-50'>
+          <p className='max-w-[600px] mt-[3rem] md:mt-[5rem] font-semibold text-base mb-10 pb-8 border-b border-gray-700 border-opacity-50'>
             {WelcomeInfo.welcomeSection}
           </p>
         </div>
